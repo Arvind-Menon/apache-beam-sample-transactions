@@ -4,3 +4,4 @@
 
 /[Oo]utput/*
 !/[Oo]utput/.gitkeep
+/__pycache__/*
